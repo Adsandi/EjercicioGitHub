@@ -1,4 +1,5 @@
 
 public class Primero {
-public int uno = 0;
+	public boolean uno = true;
+	public int tres = 2;
 }
